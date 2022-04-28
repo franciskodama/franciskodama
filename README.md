@@ -21,7 +21,7 @@
 
 <hr />
 
-## ⚡ Connect with me:
+### ⚡ Connect with me:
 
 <a href="https://www.fkodama.com/" target="_blank">
 <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/website.svg"  />
@@ -40,6 +40,8 @@
 </br>
 </br>
 
+<hr />
+
 ### 🤖 Technologies I love and use
 
 <div style="display: inline_block"><br>
@@ -55,6 +57,8 @@
 
 <br />
 <br />
+
+<hr />
 
 ### 📈 Stats and Languages
 
