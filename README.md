@@ -12,7 +12,7 @@
 🚀 My mission is to create exciting projects that will inspire others and change their behavior in a positive way while providing me with new challenges so I never stop learning.
 </br>
 </br>
-⚡ Fun fact: For more than two decades, I worked in marketing, progressed to the position of Director at a multinational company, and had even run my own Digital Marketing Agency. And now, I turn my attention to a career that I'm passionate about since I was a teenager. ❤️ A career that I work for fun! 😜
+🏁 **Fun fact**: For more than two decades, I worked in marketing, progressed to the position of Director at a multinational company, and had even run my own Digital Marketing Agency. And now, I turn my attention to a career that I'm passionate about since I was a teenager. ❤️ **A career that I work for fun!** 😜
 </br>
 </br>
 💭 “Success is simple. Do what’s right, the right way, at the right time.” — Arnold H. Glasow
@@ -21,9 +21,9 @@
 
 <hr />
 
-### ⚡ Connect with me:
+## ⚡ Connect with me:
 
-<a href="https://www.fkodama.com/" target="_blank"> My Portfolio!
+<a href="https://www.fkodama.com/" target="_blank">
 <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/website.svg"  />
 </a>
 
@@ -36,6 +36,9 @@
 <a href="mailto:fk@fkodama.com">
   <img align="left" width="26px" src="https://www.fkodama.com/franciskodama/email.svg" />
 </a>
+
+</br>
+</br>
 
 ## 🤖 Technologies I love and use
 
@@ -53,7 +56,7 @@
 <br />
 <br />
 
-## 🤖 Stats and Languages
+## 📈 Stats and Languages
 
 <div align="center">
   <a href="https://github.com/franciskodama">
