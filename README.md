@@ -11,14 +11,12 @@
 🚀 My mission is to create exciting projects that will inspire others and change their behavior in a positive way while providing me with new challenges so I never stop learning.
 </br>
 </br>
-⚡ Fun fact: For more than two decades, I worked in marketing, progressed to the position of Director with a multinational company, and had even run my own Digital Marketing Agency. And now I turn my attention to a career that I'm passionate about since I was a teenager. ❤️ A career that I work for fun! 😜
+⚡ Fun fact: For more than two decades, I worked in marketing, progressed to the position of Director at a multinational company, and had even run my own Digital Marketing Agency. And now, I turn my attention to a career that I'm passionate about since I was a teenager. ❤️ A career that I work for fun! 😜
+</br>
 💭“Success is simple. Do what’s right, the right way, at the right time.” —Arnold H. Glasow
 </br>
 </br>
 💬 Feel more than welcome to contact me if you want talk about my projects! Well, or anything else.
-<a href="mailto:fk@fkodama.com">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 </br>
 </br>
 
@@ -31,16 +29,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kodama#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kodama#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/franciskodama#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/franciskodama#gh-dark-mode-only)
+<a href="https://www.fkodama.com/" target="_blank"> My Portfolio!
+  <img align="left" width="24px" src="www.fkodama.com/franciskodama/website.svg"  />
+</a>
+<a href="mailto:fk@fkodama.com">
+  <img align="left" width="26px" src="https://www.fkodama.com/franciskodama/email.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kodama/" target="_blank">
+  <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/linkedin.svg
+"  />
+</a>
+<a href="https://www.instagram.com" target="_blank">
+  <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/instagram.svg"  />
+</a>
 
-### Languages and Tools:
 
 ## ⚡ Technologies I love and use ⚡
 
@@ -63,8 +65,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&langs_count=7&theme=gradient"/>
 </div>
-
-
-[website]: https://www.fkodama.com
-[linkedin]: https://www.linkedin.com/in/kodama/
-[instagram]: https://www.instagram.com/franciskodama/
