@@ -1,10 +1,10 @@
 # Hi there! I'm Francis Kodama! 👋
-
 ## Welcome to my GitHub. 🔥
 
 <hr />
 
 ## About Me 😎
+<br />
 
 🇧🇷 I’m a **Front-end Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
 </br>
@@ -22,7 +22,7 @@
 <hr />
 
 ### ⚡ Connect with me:
-
+<br />
 <a href="https://www.fkodama.com/" target="_blank">
 <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/website.svg"  />
 </a>
@@ -57,11 +57,10 @@
 
 <br />
 <br />
-
 <hr />
 
 ### 📈 Stats and Languages
-
+<br />
 <div align="center">
   <a href="https://github.com/franciskodama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
