@@ -1,9 +1,11 @@
 # Hi there! I'm Francis Kodama! 👋
+
 ## Welcome to my GitHub. 🔥
 
 <hr />
 
 ## About Me 😎
+
 <br />
 
 🇧🇷 I’m a **Front-end Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
@@ -22,19 +24,20 @@
 <hr />
 
 ### ⚡ Connect with me:
+
 <br />
 <a href="https://www.fkodama.com/" target="_blank">
-<img align="left" width="24px" src="https://www.fkodama.com/franciskodama/website.svg"  />
+<img align="left" width="40px" src="https://www.fkodama.com/franciskodama/website.svg"  />
 </a>
 
 <a href="https://www.linkedin.com/in/kodama/" target="_blank">
-  <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/linkedin.svg"  />
+  <img align="left" width="40px" src="https://www.fkodama.com/franciskodama/linkedin.svg"  />
 </a>
 <a href="https://www.instagram.com" target="_blank">
-  <img align="left" width="24px" src="https://www.fkodama.com/franciskodama/instagram.svg"  />
+  <img align="left" width="40px" src="https://www.fkodama.com/franciskodama/instagram.svg"  />
 </a>
 <a href="mailto:fk@fkodama.com">
-  <img align="left" width="26px" src="https://www.fkodama.com/franciskodama/email.svg" />
+  <img align="left" width="40px" src="https://www.fkodama.com/franciskodama/email.svg" />
 </a>
 
 </br>
@@ -60,6 +63,7 @@
 <hr />
 
 ### 📈 Stats and Languages
+
 <br />
 <div align="center">
   <a href="https://github.com/franciskodama">
