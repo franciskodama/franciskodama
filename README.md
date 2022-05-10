@@ -22,7 +22,7 @@
 </br>
 
 <a href="https://www.fkodama.com/" target="_blank">
-<img align="left" width="196px" src="https://www.fkodama.com/franciskodama/portfolio.svg"  />
+<img align="left" width="196px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
 </a>
 
 </br>
@@ -34,17 +34,17 @@
 
 <br />
 <a href="https://www.fkodama.com/" target="_blank">
-<img align="left" width="40px" src="https://www.fkodama.com/franciskodama/website.svg"  />
+<img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/website.svg"  />
 </a>
 
 <a href="https://www.linkedin.com/in/kodama/" target="_blank">
-  <img align="left" width="40px" src="https://www.fkodama.com/franciskodama/linkedin.svg"  />
+  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/linkedin.svg"  />
 </a>
 <a href="https://www.instagram.com" target="_blank">
-  <img align="left" width="40px" src="https://www.fkodama.com/franciskodama/instagram.svg"  />
+  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/instagram.svg"  />
 </a>
 <a href="mailto:fk@fkodama.com">
-  <img align="left" width="43px" src="https://www.fkodama.com/franciskodama/email.svg" />
+  <img align="left" width="43px" src="https://www.fkodama.com/_permanent/git/email.svg" />
 </a>
 
 </br>
@@ -63,8 +63,8 @@
 <img align="left" alt="Git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" height="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="center" alt="Figma" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
-<img align="center" alt="Adobe Photoshop" height="40px" src="https://www.fkodama.com/franciskodama/adobe-photoshop.svg">  
-<img align="center" alt="Adobe XD" height="40px" src="https://www.fkodama.com/franciskodama/adobe-xd.svg">                                                   
+<img align="center" alt="Adobe Photoshop" height="40px" src="https://www.fkodama.com/_permanent/git/adobe-photoshop.svg">  
+<img align="center" alt="Adobe XD" height="40px" src="https://www.fkodama.com/_permanent/git/adobe-xd.svg">                                                   
 </div>
 
 <br />
