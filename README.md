@@ -8,7 +8,7 @@
 
 <br />
 
-🇧🇷 I’m a **Front-end Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
+🇧🇷 I’m a **Software Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
 </br>
 </br>
 🚀 My mission is to create exciting projects that will inspire others and change their behavior in a positive way while providing me with new challenges so I never stop learning.
