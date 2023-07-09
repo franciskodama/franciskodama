@@ -96,23 +96,23 @@
   <img align="left" alt="NPM" width="40px" src="https://fkodama.com/techstack-icons/npm-2.svg" style="margin-right:25px; margin-bottom:25px;" />
 
   <!-- Editor -->
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="margin-right:25px; margin-bottom:25px;" />
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="margin-right:25px;margin-bottom:25px;" />
 
   <!-- Project Management -->
-  <img align="left" alt="Jira" width="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="margin-right:25px; margin-bottom:25px;" />
-  <img align="left" alt="Confluence" width="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="margin-right:25px; margin-bottom:25px;" />
+  <img align="left" alt="Jira" width="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="margin-right:25px;margin-bottom:25px;" />
+  <img align="left" alt="Confluence" width="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="margin-right:25px;margin-bottom:25px;" />
 
   <!-- Design -->
-  <img align="center" alt="Figma" height="40px" src="https://fkodama.com/techstack-icons/figma.svg" style="margin-right:25px; margin-bottom:25px;">  
-  <img align="center" alt="Adobe XD" width="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg" style="margin-right:25px; margin-bottom:25px;">                                                   
-  <img align="center" alt="Adobe Photoshop" width="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg" style="margin-right:25px; margin-bottom:25px;">  
-  <img align="center" alt="Adobe Illustrator" width="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg" style="margin-right:25px; margin-bottom:25px;">  
-  <img align="center" alt="Adobe Premiere" width="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg" style="margin-right:25px; margin-bottom:25px;">
+  <img align="center" alt="Figma" height="40px" src="https://fkodama.com/techstack-icons/figma.svg" style="margin-right:25px;margin-bottom:25px;">  
+  <img align="center" alt="Adobe XD" width="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg" style="margin-right:25px;margin-bottom:25px;">                                                   
+  <img align="center" alt="Adobe Photoshop" width="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg" style="margin-right:25px;margin-bottom:25px;">  
+  <img align="center" alt="Adobe Illustrator" width="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg" style="margin-right:25px;margin-bottom:25px;">  
+  <img align="center" alt="Adobe Premiere" width="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg" style="margin-right:25px;margin-bottom:25px;">
 
   <!-- Microsoft -->
-  <img align="center" alt="Microsoft excel" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg" style="margin-right:25px; margin-bottom:25px;">  
-  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg" style="margin-right:25px; margin-bottom:25px;">  
-  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg" style="margin-right:25px; margin-bottom:25px;">  
+  <img align="center" alt="Microsoft excel" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg" style="margin-right:25px;margin-bottom:25px;">  
+  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg" style="margin-right:25px;margin-bottom:25px;">  
+  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg" style="margin-right:25px;margin-bottom:25px;">  
 </div>
 
 <br />
