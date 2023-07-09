@@ -73,47 +73,47 @@
   <!-- <img align="left" alt="Reflexbox Rebass" width="40px" src="https://camo.githubusercontent.com/ac38250ad62288f6cbafc721f3b33640c339c2f1c3f4e20d7b2549663763da7a/68747470733a2f2f7265626173736a732e6f72672f6c6f676f2e737667" style="padding-right:10px;" /> -->
 
   <!-- Animation -->
-  <img align="center" alt="GSAP" height="40px" src="https://fkodama.com/techstack-icons/gsap.svg">
+  <img align="center" alt="GSAP" width="40px" src="https://fkodama.com/techstack-icons/gsap.svg">
 
   <!-- Databases -->
-  <img align="center" alt="Prisma" height="40px" src="https://fkodama.com/techstack-icons/prisma.svg">
-  <img align="center" alt="GraphQL" height="40px" src="https://fkodama.com/techstack-icons/graphql.svg">
-  <img align="center" alt="Redis" height="40px" src="https://fkodama.com/techstack-icons/redis.svg">
-  <img align="center" alt="Firebase" height="40px" src="https://fkodama.com/techstack-icons/firebase-logo.svg">
-  <img align="center" alt="Airtable" height="40px" src="https://fkodama.com/techstack-icons/airtable.svg">
+  <img align="center" alt="Prisma" width="40px" src="https://fkodama.com/techstack-icons/prisma.svg">
+  <img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/techstack-icons/graphql.svg">
+  <img align="center" alt="Redis" width="40px" src="https://fkodama.com/techstack-icons/redis.svg">
+  <img align="center" alt="Firebase" width="40px" src="https://fkodama.com/techstack-icons/firebase-logo.svg">
+  <img align="center" alt="Airtable" width="40px" src="https://fkodama.com/techstack-icons/airtable.svg">
 
   <!-- Others -->
-  <img align="center" alt="Algolia" height="40px" src="https://fkodama.com/techstack-icons/algolia.svg">
-  <img align="center" alt="Shopify" height="40px" src="https://fkodama.com/techstack-icons/shopify.svg">
-  <img align="center" alt="Stripe" height="40px" src="https://fkodama.com/techstack-icons/stripe.svg">
+  <img align="center" alt="Algolia" width="40px" src="https://fkodama.com/techstack-icons/algolia.svg">
+  <img align="center" alt="Shopify" width="40px" src="https://fkodama.com/techstack-icons/shopify.svg">
+  <img align="center" alt="Stripe" width="40px" src="https://fkodama.com/techstack-icons/stripe.svg">
 
   <!-- Hosting -->
   <img align="center" alt="Vercel" height="40px" src="https://fkodama.com/techstack-icons/vercel-logo.svg">
 
   <!-- Version Control and Libraries Management -->
-  <img align="left" alt="Git" height="40px" src="https://fkodama.com/techstack-icons/git-icon.svg" style="padding-right:10px;" />
-  <img align="left" alt="GitHub" height="40px" src="https://fkodama.com/techstack-icons/github-icon.svg" style="padding-right:10px;" />
-  <img align="left" alt="Yarn" height="40px" src="https://fkodama.com/techstack-icons/yarn.svg" style="padding-right:10px;" />
-  <img align="left" alt="NPM" height="40px" src="https://fkodama.com/techstack-icons/npm-logo.svg" style="padding-right:10px;" />
+  <img align="left" alt="Git" width="40px" src="https://fkodama.com/techstack-icons/git-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" width="40px" src="https://fkodama.com/techstack-icons/github-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="Yarn" width="40px" src="https://fkodama.com/techstack-icons/yarn.svg" style="padding-right:10px;" />
+  <img align="left" alt="NPM" width="40px" src="https://fkodama.com/techstack-icons/npm-logo.svg" style="padding-right:10px;" />
 
   <!-- Editor -->
-  <img align="left" alt="Visual Studio Code" height="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="padding-right:10px;" />
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="padding-right:10px;" />
 
   <!-- Project Management -->
-  <img align="left" alt="Jira" height="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="padding-right:10px;" />
-  <img align="left" alt="Confluence" height="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="padding-right:10px;" />
+  <img align="left" alt="Jira" width="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="padding-right:10px;" />
+  <img align="left" alt="Confluence" width="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="padding-right:10px;" />
 
   <!-- Design -->
-  <img align="center" alt="Figma" height="40px" src="https://fkodama.com/techstack-icons/figma.svg">  
-  <img align="center" alt="Adobe XD" height="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg">                                                   
-  <img align="center" alt="Adobe Photoshop" height="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg">  
-  <img align="center" alt="Adobe Illustrator" height="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg">  
-  <img align="center" alt="Adobe Premiere" height="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg">
+  <img align="center" alt="Figma" width="40px" src="https://fkodama.com/techstack-icons/figma.svg">  
+  <img align="center" alt="Adobe XD" width="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg">                                                   
+  <img align="center" alt="Adobe Photoshop" width="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg">  
+  <img align="center" alt="Adobe Illustrator" width="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg">  
+  <img align="center" alt="Adobe Premiere" width="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg">
 
   <!-- Microsoft -->
-  <img align="center" alt="Microsoft excel" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg">  
-  <img align="center" alt="Microsoft" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg">  
-  <img align="center" alt="Microsoft" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg">  
+  <img align="center" alt="Microsoft excel" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg">  
+  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg">  
+  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg">  
 </div>
 
 <br />
