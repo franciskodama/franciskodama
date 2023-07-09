@@ -93,7 +93,7 @@
   <img align="left" alt="Git" width="40px" src="https://fkodama.com/techstack-icons/git-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="40px" src="https://fkodama.com/techstack-icons/github-icon.svg" style="padding-right:10px;" />
   <img align="left" alt="Yarn" width="40px" src="https://fkodama.com/techstack-icons/yarn.svg" style="padding-right:10px;" />
-  <img align="left" alt="NPM" width="40px" src="https://fkodama.com/techstack-icons/npm-logo.svg" style="padding-right:10px;" />
+  <img align="left" alt="NPM" width="40px" src="https://fkodama.com/techstack-icons/npm-2.svg" style="padding-right:10px;" />
 
   <!-- Editor -->
   <img align="left" alt="Visual Studio Code" width="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="padding-right:10px;" />
