@@ -54,27 +54,66 @@
 
 ### 🤖 Technologies I love and use
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
+  <!-- Frameworks and Languages -->
+  <img align="center" alt="ReactJS" height="40px" src="https://fkodama.com/techstack-icons/react.svg">                 
+  <img align="center" alt="NextJS" height="40px" src="https://fkodama.com/techstack-icons/nextjs-icon.svg">
+  <img align="center" alt="Typescript" height="40px" src="https://fkodama.com/techstack-icons/typescript-icon.svg">                 
+  <img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg">
+  <img align="center" alt="ES6" height="40px" src="https://fkodama.com/techstack-icons/es6.svg">
 
-<img align="center" alt="ReactJS" height="40px" src="https://fkodama.com/techstack-icons/react.svg">                 
-<img align="center" alt="NextJS" height="40px" src="https://fkodama.com/techstack-icons/nextjs-icon">
+  <!-- Styles -->
+  <img align="left" alt="HTML5" width="40px" src="https://fkodama.com/techstack-icons/html-5.svg" style="padding-right:10px;" />
+  <img align="left" alt="CSS3" width="40px" src="https://fkodama.com/techstack-icons/css-3.svg" style="padding-right:10px;" />
+  <img align="left" alt="Sass" width="40px" src="https://fkodama.com/techstack-icons/sass.svg" style="padding-right:10px;" />
+  <img align="left" alt="Tailwind CSS" width="40px" src="https://fkodama.com/techstack-icons/tailwindcss.svg" style="padding-right:10px;" />
+  <img align="left" alt="Styled Components" width="40px" src="https://fkodama.com/techstack-icons/styled-components.svg" style="padding-right:10px;" />
+  <img align="left" alt="Reflexbox Rebass" width="40px" src="https://fkodama.com/techstack-icons/reflexbox.webp" style="padding-right:10px;" />
+  <!-- <img align="left" alt="Reflexbox Rebass" width="40px" src="https://camo.githubusercontent.com/ac38250ad62288f6cbafc721f3b33640c339c2f1c3f4e20d7b2549663763da7a/68747470733a2f2f7265626173736a732e6f72672f6c6f676f2e737667" style="padding-right:10px;" /> -->
 
-<img align="center" alt="Typescript" height="40px" src="https://fkodama.com/techstack-icons/typescript-icon">                 
-<img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg">
+  <!-- Animation -->
+  <img align="center" alt="GSAP" height="40px" src="https://fkodama.com/techstack-icons/gsap.svg">
 
-<img align="center" alt="" height="40px" src="">
+  <!-- Databases -->
+  <img align="center" alt="Prisma" height="40px" src="https://fkodama.com/techstack-icons/prisma.svg">
+  <img align="center" alt="GraphQL" height="40px" src="https://fkodama.com/techstack-icons/graphql.svg">
+  <img align="center" alt="Redis" height="40px" src="https://fkodama.com/techstack-icons/redis.svg">
+  <img align="center" alt="Firebase" height="40px" src="https://fkodama.com/techstack-icons/firebase-logo.svg">
+  <img align="center" alt="Airtable" height="40px" src="https://fkodama.com/techstack-icons/airtable.svg">
 
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <!-- Others -->
+  <img align="center" alt="Algolia" height="40px" src="https://fkodama.com/techstack-icons/algolia.svg">
+  <img align="center" alt="Shopify" height="40px" src="https://fkodama.com/techstack-icons/shopify.svg">
+  <img align="center" alt="Stripe" height="40px" src="https://fkodama.com/techstack-icons/stripe.svg">
 
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="center" alt="js" height="40px" padding-right="15px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />                 
-<img align="left" alt="Git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" height="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="center" alt="Figma" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
-<img align="center" alt="Adobe Photoshop" height="40px" src="https://www.fkodama.com/_permanent/git/adobe-photoshop.svg">  
-<img align="center" alt="Adobe XD" height="40px" src="https://www.fkodama.com/_permanent/git/adobe-xd.svg">                                                   
+  <!-- Hosting -->
+  <img align="center" alt="Vercel" height="40px" src="https://fkodama.com/techstack-icons/vercel-logo.svg">
+
+  <!-- Version Control and Libraries Management -->
+  <img align="left" alt="Git" height="40px" src="https://fkodama.com/techstack-icons/git-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" height="40px" src="https://fkodama.com/techstack-icons/github-icon.svg" style="padding-right:10px;" />
+  <img align="left" alt="Yarn" height="40px" src="https://fkodama.com/techstack-icons/yarn.svg" style="padding-right:10px;" />
+  <img align="left" alt="NPM" height="40px" src="https://fkodama.com/techstack-icons/npm-logo.svg" style="padding-right:10px;" />
+
+  <!-- Editor -->
+  <img align="left" alt="Visual Studio Code" height="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="padding-right:10px;" />
+
+  <!-- Project Management -->
+  <img align="left" alt="Jira" height="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="padding-right:10px;" />
+  <img align="left" alt="Confluence" height="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="padding-right:10px;" />
+
+  <!-- Design -->
+  <img align="center" alt="Figma" height="40px" src="https://fkodama.com/techstack-icons/figma.svg">  
+  <img align="center" alt="Adobe XD" height="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg">                                                   
+  <img align="center" alt="Adobe Photoshop" height="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg">  
+  <img align="center" alt="Adobe Illustrator" height="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg">  
+  <img align="center" alt="Adobe Premiere" height="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg">
+
+  <!-- Microsoft -->
+  <img align="center" alt="Microsoft excel" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg">  
+  <img align="center" alt="Microsoft" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg">  
+  <img align="center" alt="Microsoft" height="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg">  
 </div>
 
 <br />
