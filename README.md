@@ -76,54 +76,143 @@
   
   <!-- Styles -->
   <img align="center" alt="HTML5" width="40px" src="https://fkodama.com/techstack-icons/html-5.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="CSS3" width="40px" src="https://fkodama.com/techstack-icons/css-3.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Sass" width="40px" src="https://fkodama.com/techstack-icons/sass.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Tailwind CSS" width="40px" src="https://fkodama.com/techstack-icons/tailwindcss-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Styled Components" width="40px" src="https://fkodama.com/techstack-icons/styled-components.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Reflexbox Rebass" width="40px" src="https://camo.githubusercontent.com/ac38250ad62288f6cbafc721f3b33640c339c2f1c3f4e20d7b2549663763da7a/68747470733a2f2f7265626173736a732e6f72672f6c6f676f2e737667" style="padding-right:25px; padding-bottom:25px;" />
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Animation -->
   <img align="center" alt="GSAP" width="40px" src="https://fkodama.com/techstack-icons/gsap.svg" style="padding-right:25px; padding-bottom:25px;">
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Databases -->
   <img align="center" alt="Prisma" width="40px" src="https://fkodama.com/techstack-icons/prisma.svg" style="padding-right:25px; padding-bottom:25px;">
-  <img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/techstack-icons/graphql.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- --------------><img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/techstack-icons/graphql.svg" style="padding-right:25px; padding-bottom:25px;">
   <img align="center" alt="Redis" width="40px" src="https://fkodama.com/techstack-icons/redis.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Firebase" width="40px" src="https://fkodama.com/techstack-icons/firebase.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Airtable" width="40px" src="https://fkodama.com/techstack-icons/airtable.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Others -->
   <img align="center" alt="Algolia" width="60px" src="https://fkodama.com/techstack-icons/algolia.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Shopify" width="40px" src="https://fkodama.com/techstack-icons/shopify.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Stripe" width="40px" src="https://fkodama.com/techstack-icons/stripe.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Hosting -->
   <img align="center" alt="Vercel" width="60px" src="https://fkodama.com/techstack-icons/vercel-logo.svg" style="padding-right:25px; padding-bottom:25px;">
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Version Control and Libraries Management -->
   <img align="center" alt="Git" width="40px" src="https://fkodama.com/techstack-icons/git-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="GitHub" width="40px" src="https://fkodama.com/techstack-icons/github-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Yarn" width="40px" src="https://fkodama.com/techstack-icons/yarn.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="NPM" width="40px" src="https://fkodama.com/techstack-icons/npm-2.svg" style="padding-right:25px; padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Editor -->
   <img align="center" alt="Visual Studio Code" width="40px" src="https://fkodama.com/techstack-icons/visual-studio-code.svg" style="padding-right:25px;padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Project Management -->
   <img align="center" alt="Jira" width="40px" src="https://fkodama.com/techstack-icons/jira.svg" style="padding-right:25px;padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Confluence" width="40px" src="https://fkodama.com/techstack-icons/confluence.svg" style="padding-right:25px;padding-bottom:25px;" />
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Design -->
   <img align="center" alt="Figma" height="40px" src="https://fkodama.com/techstack-icons/figma.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Adobe XD" width="40px" src="https://fkodama.com/techstack-icons/adobe-xd.svg" style="padding-right:25px;padding-bottom:25px;">                                                   
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Adobe Photoshop" width="40px" src="https://fkodama.com/techstack-icons/adobe-photoshop.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Adobe Illustrator" width="40px" src="https://fkodama.com/techstack-icons/adobe-illustrator.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Adobe Premiere" width="40px" src="https://fkodama.com/techstack-icons/adobe-premiere_pro.svg" style="padding-right:25px;padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 
   <!-- Microsoft -->
   <img align="center" alt="Microsoft excel" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-excel.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office-powerpoint.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/techstack-icons/microsoft-office.svg" style="padding-right:25px;padding-bottom:25px;">  
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
 </div>
 
 <br />
