@@ -57,18 +57,23 @@
 <div style="display: inline_block">
   <br>
   <!-- Frameworks and Languages -->
-  <img align="center" alt="ReactJS" height="40px" src="https://fkodama.com/techstack-icons/react.svg" style="padding-right:25px; padding-bottom:25px;">                 
-  <img align="center" alt="Transparent Square" width="10px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
-  
-  <img align="center" alt="NextJS" height="40px" src="https://fkodama.com/techstack-icons/nextjs-icon.svg" style="padding-right:25px; padding-bottom:25px;">
-   <img align="center" alt="Transparent Square" width="10px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">
-
+  <img align="center" alt="ReactJS" height="40px" src="https://fkodama.com/techstack-icons/react.svg" style="padding-right:25px; padding-bottom:25px;">       
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
+    <img align="center" alt="NextJS" height="40px" src="https://fkodama.com/techstack-icons/nextjs-icon.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Typescript" height="40px" src="https://fkodama.com/techstack-icons/typescript-icon.svg" style="padding-right:25px; padding-bottom:25px;">                 
-   <img align="center" alt="Transparent Square" width="10px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">      
-   
-  <img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- --------------><img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg" style="padding-right:25px; padding-bottom:25px;">
   <img align="center" alt="ES6" height="40px" src="https://fkodama.com/techstack-icons/es6.svg" style="padding-right:25px; padding-bottom:25px;">
-
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
+  
   <!-- Styles -->
   <img align="center" alt="HTML5" width="40px" src="https://fkodama.com/techstack-icons/html-5.svg" style="padding-right:25px; padding-bottom:25px;" />
   <img align="center" alt="CSS3" width="40px" src="https://fkodama.com/techstack-icons/css-3.svg" style="padding-right:25px; padding-bottom:25px;" />
