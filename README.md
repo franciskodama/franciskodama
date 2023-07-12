@@ -68,7 +68,11 @@
   <img align="center" alt="Typescript" height="40px" src="https://fkodama.com/techstack-icons/typescript-icon.svg" style="padding-right:25px; padding-bottom:25px;">                 
     <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
-  <!-- --------------><img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg" style="padding-right:25px; padding-bottom:25px;">
+  <!-- -------------->
+  <img align="center" alt="Javascript" height="40px" src="https://fkodama.com/techstack-icons/javascript.svg" style="padding-right:25px; padding-bottom:25px;">
+    <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="ES6" height="40px" src="https://fkodama.com/techstack-icons/es6.svg" style="padding-right:25px; padding-bottom:25px;">
   <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
@@ -110,7 +114,11 @@
   <img align="center" alt="Prisma" width="40px" src="https://fkodama.com/techstack-icons/prisma.svg" style="padding-right:25px; padding-bottom:25px;">
     <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
-  <!-- --------------><img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/techstack-icons/graphql.svg" style="padding-right:25px; padding-bottom:25px;">
+  <!-- -------------->
+  <img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/techstack-icons/graphql.svg" style="padding-right:25px; padding-bottom:25px;">
+  <!-- -------------->
+  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
+  <!-- -------------->
   <img align="center" alt="Redis" width="40px" src="https://fkodama.com/techstack-icons/redis.svg" style="padding-right:25px; padding-bottom:25px;">
     <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
