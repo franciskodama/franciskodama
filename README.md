@@ -99,7 +99,7 @@
     <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
   <!-- -------------->
-  <img align="center" alt="Reflexbox Rebass" width="40px" src="https://camo.githubusercontent.com/ac38250ad62288f6cbafc721f3b33640c339c2f1c3f4e20d7b2549663763da7a/68747470733a2f2f7265626173736a732e6f72672f6c6f676f2e737667" style="padding-right:25px; padding-bottom:25px;" />
+  <img align="center" alt="Reflexbox Rebass" width="40px" src="https://fkodama.com/techstack-icons/reflexbox.png)" style="padding-right:25px; padding-bottom:25px;" />
   <!-- -------------->
   <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/techstack-icons/10x10-transp-square.png">                 
   <!-- -------------->
