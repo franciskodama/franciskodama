@@ -12,8 +12,7 @@
 
 ⚡ **Fun fact**: I spent 20+ years leading enterprise-scale teams and managing high-impact brand programs for Walmart, Jaguar, Peugeot Citroën, and Unilever, and then purposefully pivoted to a hands-on engineering role to master the technical layer, ensuring future leadership decisions are grounded in actual architectural execution. Now I bring both worlds together, and that changes everything about how fast and how well a team can build. ❤️
 
-
-
+<br/>
 <a href="https://www.fkodama.com/" target="_blank">
 <img align="left" width="196px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
 </a>
@@ -85,5 +84,6 @@
 
 ### 📊 Stats and Languages
 
-![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&theme=tokyonight)
+| My GitHub Stats | Top Languages |
+| :--- | :--- |
+| ![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&theme=tokyonight) |
