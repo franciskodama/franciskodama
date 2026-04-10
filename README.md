@@ -25,30 +25,18 @@
 
 ### **What I’m Building 🏗️**
 
-* **[Trezo.App](https://trezo.app)** *A global wealth engine architected to synchronize multi-currency assets across BRL, CAD, and USD markets.*
-
-* **[Monkey Business](https://monkeybusiness-olive.vercel.app)** *An AI-driven FinTech platform leveraging automated parsing logic for household financial intelligence.*
-
-* **[Handy For.Me](https://handyfor.me)** *A modular productivity ecosystem designed to collapse personal project management into a high-velocity dashboard.*
-
-* **[Monkey Mori](https://monkey-mori.vercel.app/)** *A security-centric documentation framework for managing decentralized crypto-assets and legacy planning.*
-
-
-### **What I’m Building 🏗️**
 
 [![Trezo.App](https://img.shields.io/badge/Trezo.App-100000?style=for-the-badge)](https://trezo.app)
-*A global wealth engine architected to synchronize multi-currency assets across BRL, CAD, and USD markets.*
+* A global wealth engine architected to synchronize multi-currency assets across BRL, CAD, and USD markets.
 
 [![Monkey Business](https://img.shields.io/badge/Monkey_Business-100000?style=for-the-badge)](https://monkeybusiness-olive.vercel.app)
-*An AI-driven FinTech platform leveraging automated parsing logic for household financial intelligence.*
+* An AI-driven FinTech platform leveraging automated parsing logic for household financial intelligence.
 
 [![Handy For.Me](https://img.shields.io/badge/Handy_For.Me-100000?style=for-the-badge)](https://handyfor.me)
-*A modular productivity ecosystem designed to collapse personal project management into a high-velocity dashboard.*
+* A modular productivity ecosystem designed to collapse personal project management into a high-velocity dashboard.
 
 [![Monkey Mori](https://img.shields.io/badge/Monkey_Mori-100000?style=for-the-badge)](https://monkey-mori.vercel.app/)
-*A security-centric documentation framework for managing decentralized crypto-assets and legacy planning.*
-
-
+* A security-centric documentation framework for managing decentralized crypto-assets and legacy planning.
 
 ---
 
