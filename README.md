@@ -2,233 +2,84 @@
 
 ## Welcome to my GitHub. 🔥
 
-<hr />
+---
 
-## About Me 😎
+### About Me 😎
 
-<br />
+🇧🇷 I'm a **Technical Product Lead** with a rare combination most teams are looking for but rarely find: two decades of executive leadership *and* hands-on full-stack engineering. I don't just define the vision — I can architect, build, and ship alongside the team.
 
-🇧🇷 I’m a **Software Developer** with a strong understanding of industry trends, as well as of the entire web development process, including development, UX/UI design, product management, and client services.
-</br>
-</br>
-🚀 My mission is to create exciting projects that will inspire others and change their behavior in a positive way while providing me with new challenges so I never stop learning.
-</br>
-</br>
-🏁 **Fun fact**: For more than two decades, I worked in marketing, progressed to the position of Client Services Director at a multinational company, and had even run my own Digital Marketing Agency. And now, I turn my attention to a career that I'm passionate about since I was a teenager. ❤️ **A career that I work for fun!** 😜
-</br>
-</br>
-💭 "When you have confidence, you can have a lot of fun. **And when you have fun, you can do amazing things.**" -Joe Namath.
-</br>
-</br>
+🚀 My mission is to bridge the gap between business strategy and technical execution, forming missionary teams that solve hard problems fast, and delivering products that create real impact.
+
+⚡ **Fun fact**: I spent 20+ years leading enterprise-scale teams and managing high-impact brand programs for Walmart, Jaguar, Peugeot Citroën, and Unilever, and then purposefully pivoted to a hands-on engineering role to master the technical layer, ensuring future leadership decisions are grounded in actual architectural execution. Now I bring both worlds together, and that changes everything about how fast and how well a team can build. ❤️
+
+
+### **What I’m Building 🏗️**
+
+* **[Trezo.App](https://trezo.app)** *A global wealth engine architected to synchronize multi-currency assets across BRL, CAD, and USD markets.*
+
+* **[Monkey Business](https://monkeybusiness-olive.vercel.app)** *An AI-driven FinTech platform leveraging automated parsing logic for household financial intelligence.*
+
+* **[Handy For.Me](https://handyfor.me)** *A modular productivity ecosystem designed to collapse personal project management into a high-velocity dashboard.*
+
+* **[Monkey Mori](https://monkey-mori.vercel.app/)** *A security-centric documentation framework for managing decentralized crypto-assets and legacy planning.*
 
 <a href="https://www.fkodama.com/" target="_blank">
 <img align="left" width="196px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
 </a>
 
-</br>
-</br>
+---
 
-<hr />
+> *"In the world of software, the architect who still carries a shovel is the only one who truly knows the ground."* — Anonymous
 
-### ⚡ Connect with me:
+---
 
-<br />
-<a href="https://www.fkodama.com/" target="_blank">
-<img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/website.svg"  />
-</a>
+### **Connect with me:**
 
-<a href="https://www.linkedin.com/in/kodama/" target="_blank">
-  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/linkedin.svg"  />
-</a>
-<a href="https://www.instagram.com" target="_blank">
-  <img align="left" width="40px" src="https://www.fkodama.com/_permanent/git/instagram.svg"  />
-</a>
-<a href="mailto:fk@fkodama.com">
-  <img align="left" width="43px" src="https://www.fkodama.com/_permanent/git/email.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kodama)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge)](https://www.fkodama.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fk@fkodama.com)
 
-</br>
-</br>
+---
 
-<hr />
+### 🛠️ Technologies I love and use
 
-### 🤖 Technologies I love and use
+**Frontend & Design**
 
-<div style="display: inline_block">
-  <br>
-  <!-- Frameworks and Languages -->
-  <img align="center" alt="ReactJS" height="40px" src="https://fkodama.com/_permanent/techstack-icons/react.svg" style="padding-right:25px; padding-bottom:25px;">       
-  <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-    <img align="center" alt="NextJS" height="40px" src="https://fkodama.com/_permanent/techstack-icons/nextjs-icon.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Typescript" height="40px" src="https://fkodama.com/_permanent/techstack-icons/typescript-icon.svg" style="padding-right:25px; padding-bottom:25px;">                 
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Javascript" height="40px" src="https://fkodama.com/_permanent/techstack-icons/javascript.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="ES6" height="40px" src="https://fkodama.com/_permanent/techstack-icons/es6.svg" style="padding-right:25px; padding-bottom:25px;">
-  <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  
-  <!-- Styles -->
-  <img align="center" alt="HTML5" width="40px" src="https://fkodama.com/_permanent/techstack-icons/html-5.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="CSS3" width="40px" src="https://fkodama.com/_permanent/techstack-icons/css-3.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Sass" width="40px" src="https://fkodama.com/_permanent/techstack-icons/sass.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Tailwind CSS" width="40px" src="https://fkodama.com/_permanent/techstack-icons/tailwindcss-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Styled Components" width="40px" src="https://fkodama.com/_permanent/techstack-icons/styled-components.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+**Backend & Database**
 
-  <!-- Animation -->
-  <img align="center" alt="GSAP" width="40px" src="https://fkodama.com/_permanent/techstack-icons/gsap.svg" style="padding-right:25px; padding-bottom:25px;">
-  <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Database-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-  <!-- Databases -->
-  <img align="center" alt="Prisma" width="40px" src="https://fkodama.com/_permanent/techstack-icons/prisma.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="GraphQL" width="40px" src="https://fkodama.com/_permanent/techstack-icons/graphql.svg" style="padding-right:25px; padding-bottom:25px;">
-  <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Redis" width="40px" src="https://fkodama.com/_permanent/techstack-icons/redis.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Firebase" width="40px" src="https://fkodama.com/_permanent/techstack-icons/firebase.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Airtable" width="40px" src="https://fkodama.com/_permanent/techstack-icons/airtable.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+**AI & Integrations**
 
-  <!-- Others -->
-  <img align="center" alt="Algolia" width="60px" src="https://fkodama.com/_permanent/techstack-icons/algolia.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Shopify" width="40px" src="https://fkodama.com/_permanent/techstack-icons/shopify.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Stripe" width="40px" src="https://fkodama.com/_permanent/techstack-icons/stripe.svg" style="padding-right:25px; padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white)
 
-  <!-- Hosting -->
-  <img align="center" alt="Vercel" width="60px" src="https://fkodama.com/_permanent/techstack-icons/vercel-logo.svg" style="padding-right:25px; padding-bottom:25px;">
-  <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+**Infrastructure & Tools**
 
-  <!-- Version Control and Libraries Management -->
-  <img align="center" alt="Git" width="40px" src="https://fkodama.com/_permanent/techstack-icons/git-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="GitHub" width="40px" src="https://fkodama.com/_permanent/techstack-icons/github-icon.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Yarn" width="40px" src="https://fkodama.com/_permanent/techstack-icons/yarn.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="NPM" width="40px" src="https://fkodama.com/_permanent/techstack-icons/npm-2.svg" style="padding-right:25px; padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_Physics-18181B?style=for-the-badge&logo=framer&logoColor=00DAFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-  <!-- Editor -->
-  <img align="center" alt="Visual Studio Code" width="40px" src="https://fkodama.com/_permanent/techstack-icons/visual-studio-code.svg" style="padding-right:25px;padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+---
 
-  <!-- Project Management -->
-  <img align="center" alt="Jira" width="40px" src="https://fkodama.com/_permanent/techstack-icons/jira.svg" style="padding-right:25px;padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Confluence" width="40px" src="https://fkodama.com/_permanent/techstack-icons/confluence.svg" style="padding-right:25px;padding-bottom:25px;" />
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
+### 📊 Stats and Languages
 
-  <!-- Design -->
-  <img align="center" alt="Figma" height="40px" src="https://fkodama.com/_permanent/techstack-icons/figma.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Adobe XD" width="40px" src="https://fkodama.com/_permanent/techstack-icons/adobe-xd.svg" style="padding-right:25px;padding-bottom:25px;">                                                   
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Adobe Photoshop" width="40px" src="https://fkodama.com/_permanent/techstack-icons/adobe-photoshop.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Adobe Illustrator" width="40px" src="https://fkodama.com/_permanent/techstack-icons/adobe-illustrator.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Adobe Premiere" width="40px" src="https://fkodama.com/_permanent/techstack-icons/adobe-premiere_pro.svg" style="padding-right:25px;padding-bottom:25px;">
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-
-  <!-- Microsoft -->
-  <img align="center" alt="Microsoft excel" width="40px" src="https://fkodama.com/_permanent/techstack-icons/microsoft-office-excel.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/_permanent/techstack-icons/microsoft-office-powerpoint.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-  <img align="center" alt="Microsoft" width="40px" src="https://fkodama.com/_permanent/techstack-icons/microsoft-office.svg" style="padding-right:25px;padding-bottom:25px;">  
-    <!-- -------------->
-  <img align="center" alt="Transparent Square" width="5px" src="https://fkodama.com/_permanent/techstack-icons/10x10-transp-square.png">                 
-  <!-- -------------->
-</div>
-
-<br />
-<br />
-<hr />
-
-### 📈 Stats and Languages
-
-<br />
-<div align="center">
-  <a href="https://github.com/franciskodama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&langs_count=7&theme=gradient"/>
-</div>
+![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&theme=tokyonight)
