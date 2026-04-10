@@ -6,11 +6,11 @@
 
 ### About Me 😎
 
-🇧🇷 I'm a **Technical Product Lead** with a rare combination most teams are looking for but rarely find: two decades of executive leadership *and* hands-on full-stack engineering. I don't just define the vision — I can architect, build, and ship alongside the team.
+🇧🇷  I'm a **Technical Product Lead** with a rare combination most teams are looking for but rarely find: two decades of executive leadership *and* hands-on full-stack engineering. I don't just define the vision — I can architect, build, and ship alongside the team.
 
-🚀 My mission is to bridge the gap between business strategy and technical execution, forming missionary teams that solve hard problems fast, and delivering products that create real impact.
+🚀  My mission is to bridge the gap between business strategy and technical execution, forming missionary teams that solve hard problems fast, and delivering products that create real impact.
 
-⚡ **Fun fact**: I spent 20+ years leading enterprise-scale teams and managing high-impact brand programs for Walmart, Jaguar, Peugeot Citroën, and Unilever, and then purposefully pivoted to a hands-on engineering role to master the technical layer, ensuring future leadership decisions are grounded in actual architectural execution. Now I bring both worlds together, and that changes everything about how fast and how well a team can build. ❤️
+⚡  **Fun fact**: I spent 20+ years leading enterprise-scale teams and managing high-impact brand programs for Walmart, Jaguar, Peugeot Citroën, and Unilever, and then purposefully pivoted to a hands-on engineering role to master the technical layer, ensuring future leadership decisions are grounded in actual architectural execution. Now I bring both worlds together, and that changes everything about how fast and how well a team can build. ❤️
 
 
 > *"In the world of software, the architect who still carries a shovel is the only one who truly knows the ground."* — Anonymous
