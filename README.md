@@ -11,17 +11,19 @@
 My mission is to bridge the gap between business strategy and technical execution, forming missionary teams that solve hard problems fast, and delivering products that create real impact.
 
 ⚡  **Fun fact**: I spent 20+ years leading enterprise-scale teams and managing high-impact brand programs for Walmart, Jaguar, Peugeot Citroën, and Unilever, and then purposefully pivoted to a hands-on engineering role to master the technical layer, ensuring future leadership decisions are grounded in actual architectural execution. Now I bring both worlds together, and that changes everything about how fast and how well a team can build. 
-
-
+<br/>
+<br/>
 > *"In the world of software, the architect who still carries a shovel is the only one who truly knows the ground."* — Anonymous
 
 <br/>
 <a href="https://www.fkodama.com/" target="_blank">
-<img align="left" width="196px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
+<img align="left" width="250px" src="https://www.fkodama.com/_permanent/git/portfolio.svg"  />
 </a>
+<br/>
 <br/>
 
 ---
+<br/>
 
 ### 🏗️ What I’m Building 
 
@@ -31,6 +33,8 @@ My mission is to bridge the gap between business strategy and technical executio
 | [![Monkey Business](https://img.shields.io/badge/Monkey_Business-100000?style=for-the-badge)](https://monkeybusiness-olive.vercel.app) | An AI-driven FinTech platform leveraging automated parsing logic for household financial intelligence. |
 | [![Handy For.Me](https://img.shields.io/badge/Handy_For.Me-100000?style=for-the-badge)](https://handyfor.me) | A modular "Productivity Shell" architected to eliminate cognitive friction across fragmented technical workflows. |
 | [![Monkey Mori](https://img.shields.io/badge/Monkey_Mori-100000?style=for-the-badge)](https://monkey-mori.vercel.app/) | A secure Digital Contingency Vault architected with AES-256 encryption and event-driven fail-safe protocols for legacy asset management. |
+
+<br/>
 
 ---
 
