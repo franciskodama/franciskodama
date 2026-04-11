@@ -86,17 +86,6 @@ My mission is to bridge the gap between business strategy and technical executio
 
 ### 📊 Stats and Languages
 
-| My GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Francis's GitHub Stats](./profile/stats.svg) | ![Top Languages](./profile/top-langs.svg) |
+![Francis's GitHub Stats](./profile/stats.svg)  ![Top Languages](./profile/top-langs.svg) 
 
-
-
-### 📊 Stats and Languages
-
-| My GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciskodama&layout=compact&theme=tokyonight&cache_seconds=1800) |
-| ![Francis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisKodama&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisKodama&layout=compact&theme=tokyonight&cache_seconds=1800) |
-| https://github-readme-stats.vercel.app/api?username=franciskodama&show_icons=true&theme=tokyonight |
-
+<br/>
