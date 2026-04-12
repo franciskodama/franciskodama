@@ -6,7 +6,7 @@
 
 ### About Me 
 
-🇧🇷 🇨🇦  I'm a **Technical Product Lead** with a rare combination most teams are looking for but rarely find: two decades of executive leadership *and* hands-on full-stack engineering. I don't just define the vision — I can architect, build, and ship alongside the team.
+🇧🇷 🇨🇦  I'm a **Technical Product Lead** with a rare combination most teams are looking for but rarely find: two decades of executive leadership *and* hands-on full-stack engineering. I don't just define the vision, I can architect, build, and ship alongside the team.
 
 My mission is to bridge the gap between business strategy and technical execution, forming missionary teams that solve hard problems fast, and delivering products that create real impact.
 
